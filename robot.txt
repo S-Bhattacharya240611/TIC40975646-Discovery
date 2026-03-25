@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link to your sitemap so the crawler knows the full map immediately
+Sitemap: https://s-bhattacharya240611.github.io/TIC40975646-Discovery/sitemap.xml
